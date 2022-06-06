@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Run8ModdingToolkit", "Run8ModdingToolkit\Run8ModdingToolkit.csproj", "{33DA8953-E76B-4D8C-9942-F2E0AEF1F34E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33DA8953-E76B-4D8C-9942-F2E0AEF1F34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DA8953-E76B-4D8C-9942-F2E0AEF1F34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DA8953-E76B-4D8C-9942-F2E0AEF1F34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DA8953-E76B-4D8C-9942-F2E0AEF1F34E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEA24751-15F1-4492-A7E3-D5A1DD0CC622}
+	EndGlobalSection
+EndGlobal
